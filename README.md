@@ -60,7 +60,7 @@ Work Readiness Digital Profile
 ## Create a CV
 
 ### Evidence
-- My CV:
+- My CV: https://github.com/JLF2004/Digital-Portfolio/blob/main/Jamie-Lee%20Franse_Curriculum%20Vitae%20CV.pdf
   
 - Screenshot of my CV: ![CV Screenshot](https://github.com/user-attachments/assets/10574e24-eb30-4890-ab6e-174c9c58f6a8)
   
